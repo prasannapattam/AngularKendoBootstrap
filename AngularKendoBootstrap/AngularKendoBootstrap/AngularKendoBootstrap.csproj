@@ -131,11 +131,11 @@
     <Content Include="Content\kendo\BlueOpal\sprite_2x.png" />
     <Content Include="Content\kendo\kendo.blueopal.css" />
     <Content Include="Content\kendo\kendo.common.css" />
-    <Content Include="Content\normalize.css" />
     <Content Include="global.asax" />
     <Content Include="packages.config" />
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Web.config" />
+    <Content Include="app\app.config.js" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
